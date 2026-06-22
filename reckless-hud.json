@@ -1,0 +1,14 @@
+{
+    "version": "1.0",
+    "changelog": [
+        "Initial release",
+        "Added fully flexible HUD system"
+    ],
+    "files": [
+        "client/**/*",
+        "server/**/*",
+        "config/shared.lua",
+        "web/build/**/*"
+    ],
+    "download": ""
+}
