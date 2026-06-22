@@ -2,7 +2,7 @@
     "version": "1.0",
     "changelog": [
         "Initial release",
-        "Added fully flexible HUD system"
+        "Made Change in Hud Style"
     ],
     "files": [
         "client/**/*",
