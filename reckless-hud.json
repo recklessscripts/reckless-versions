@@ -1,8 +1,8 @@
 {
-    "version": "1.0",
+    "version": "1.1",
     "changelog": [
-        "Initial release",
-        "Made Change in Hud Style"
+        "Added cash , bank options in the server info ui"
+        "Added /cash or /bank options"
     ],
     "files": [
         "client/**/*",
@@ -10,5 +10,5 @@
         "config/shared.lua",
         "web/build/**/*"
     ],
-    "download": ""
+    "download": "https://portal.cfx.re/assets/granted-assets"
 }
