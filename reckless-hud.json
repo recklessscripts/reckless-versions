@@ -1,14 +1,14 @@
 {
-    "version": "1.0",
-    "changelog": [
-        "Added cash , bank options in the server info ui"
-        "Added /cash or /bank options"
-    ],
-    "files": [
-        "client/**/*",
-        "server/**/*",
-        "config/shared.lua",
-        "web/build/**/*"
-    ],
-    "download": "https://portal.cfx.re/assets/granted-assets"
+  "version": "1.0",
+  "changelog": [
+    "Added cash, bank options in the server info ui",
+    "Added /cash or /bank options"
+  ],
+  "files": [
+    "client/**/*",
+    "server/**/*",
+    "config/shared.lua",
+    "web/build/**/*"
+  ],
+  "download": "https://portal.cfx.re/assets/granted-assets"
 }
